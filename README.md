@@ -1,2 +1,2 @@
 # cursopy
-Aprendiendo Python
+Aprendiendo Python 2026
